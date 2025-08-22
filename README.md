@@ -1,4 +1,4 @@
-![Calculator Output](output.png)
+![Calculator Output](output.PNG)
 
 # Java Basic Calculator
 
